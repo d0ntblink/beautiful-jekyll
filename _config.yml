@@ -14,7 +14,7 @@ author: Gary K
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Hello, I'm Gary aka d0ntbink an InfoSec enthusiast and prsuer.\n feel free to reach out to me on any of the contact inforamtion below"
+  About Me: "aboutme.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
