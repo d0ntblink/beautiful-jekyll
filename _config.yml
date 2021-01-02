@@ -95,16 +95,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#6272a4"
-navbar-text-col: "#ffb86c"
+navbar-col: "#44475a"
+navbar-text-col: "#ff79c6"
 navbar-border-col: "#ffb86c"
 page-col: "#282a36"
 text-col: "#f8f8f2"
 link-col: "#8be9fd"
 hover-col: "#ffb86c"
-footer-col: "#6272a4"
+footer-col: "#44475a"
 footer-text-col: "#ff79c6"
-footer-link-col: "#ff79c6"
+footer-link-col: "#8be9fd"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
