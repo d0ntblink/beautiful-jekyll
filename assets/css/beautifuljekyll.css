@@ -849,7 +849,7 @@ code {
 
 pre code {
   padding: 0;
-  background-color: #f8f8f2;
+  background-color: solid #f8f8f2;
   border-radius: 0;
 }
 
