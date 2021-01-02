@@ -3,14 +3,14 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+Hello,
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gary aka d0ntbink an InfoSec enthusiast and prsuer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I will be bloging my findings and other things that I find intersting from other fellow hackers out there. 
 
-What else do you need?
+feel free to reach out to me on any of the contact inforamtion below
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just take a look at [my faviorite movies list](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and get to know me better.
