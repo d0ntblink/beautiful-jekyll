@@ -860,8 +860,8 @@ pre {
   padding: 0.59375rem;
 }
 .highlight pre {
-  border: none;
-  background: none;
+  border: #f8f8f2;
+  background: #000000;
   margin: 0;
 }
 .highlight > pre {
@@ -878,7 +878,7 @@ pre {
 .highlight table,
 .highlight tr,
 .highlight td { /* to be removed after fixing table styles */
-  border: none;
+  border: #f8f8f2;
   background: #000000;
   padding: 0;
   margin: 0;
