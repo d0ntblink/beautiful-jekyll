@@ -843,7 +843,7 @@ table tr td :last-child {
 code {
   padding: 0.125rem 0.25rem;
   color: #c7254e;
-  background-color: #000000;
+  background-color: #f8f8f2;
   border-radius: 0.25rem;
 }
 
@@ -860,8 +860,8 @@ pre {
   padding: 0.59375rem;
 }
 .highlight pre {
-  border: #f8f8f2;
-  background: #000000;
+  border: #000000;
+  background: #f8f8f2;
   margin: 0;
 }
 .highlight > pre {
@@ -878,8 +878,8 @@ pre {
 .highlight table,
 .highlight tr,
 .highlight td { /* to be removed after fixing table styles */
-  border: #f8f8f2;
-  background: #000000;
+  border: #000000;
+  background: #f8f8f2;
   padding: 0;
   margin: 0;
 }
