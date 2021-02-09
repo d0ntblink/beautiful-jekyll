@@ -45,6 +45,8 @@ Now you are prompted with alist of all your internet IP addresses and you should
 {: .box-note}
 **Note:** Its most likley the only of of them that is not a private IP address. TLDR; anything but 10.XX.XX.XX or 192.168.XX.XX
 
+Press enter on the next question to choose the default port.
+
 The next step is to choose a DNS provider for your VPN service to resolve your requests. My choice has always been [CloudFlare/1.1.1.1](1.1.1.1) for their security and speed, but [Google/8.8.8.8](https://developers.google.com/speed/public-dns/) and [Adgaurd](https://adguard.com/en/adguard-dns/overview.html) are also note worthy options.
 
 Almost there! 
