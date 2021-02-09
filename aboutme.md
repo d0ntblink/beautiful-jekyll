@@ -7,10 +7,11 @@ Hello,
 
 My name is Gary aka d0ntbink an InfoSec enthusiast and pursuer.
 
-I will be bloging my findings and other things that I find intersting from other fellow hackers out there. 
+I will be blogging my findings and other things that I find interesting from other fellow hackers out there.
 
-feel free to reach out to me on any of the contact inforamtion below
+feel free to reach out to me on any of the contact information below
+
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just take a look at [my faviorite movies list](https://letterboxd.com/d0ntblink/list/my-top-movies-in-no-order/) and get to know me better.
+To be honest, I’m having some trouble remembering right now, so why don’t you just take a look at [my faviorite movies list](https://letterboxd.com/d0ntblink/list/my-top-movies-in-no-order/) and get to know me better.
