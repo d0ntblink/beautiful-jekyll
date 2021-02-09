@@ -34,7 +34,7 @@ You can use my [refferal link](https://m.do.co/c/70b5599f91d9) to get 100 dollar
 
 Then the usual way would be to go through with the OpenVPNs installation on your choice of OS on the VPS, but there is a much easier way.
 
-Github user [Nyr](https://github.com/Nyr) has created a [shell script](https://github.com/Nyr/openvpn-install) for Linux and specifically debian based distro to make the installation much faster and easier. 
+Github user [Nyr](https://github.com/Nyr) has created a [shell script](https://github.com/Nyr/openvpn-install) for Linux, specifically debian based distros to make the installation much faster and easier. 
 So, lets get to it.
 
 ```
