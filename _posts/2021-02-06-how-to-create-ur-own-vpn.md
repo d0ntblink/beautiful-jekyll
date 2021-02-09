@@ -43,7 +43,7 @@ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 Now you are prompted with alist of all your internet IP addresses and you should choose your public IP address that your VPS provider has provided you.
 
 {: .box-note}
-**Note:** Its most likley the only of of them that is not a private IP address. i.e 10.XX.XX.XX or 192.168.XX.XX
+**Note:** Its most likley the only of of them that is not a private IP address. TLDR; anything but 10.XX.XX.XX or 192.168.XX.XX
 
 The next step is to choose a DNS provider for your VPN service to resolve your requests. My choice has always been [CloudFlare/1.1.1.1](1.1.1.1) for their security and speed, but [Google/8.8.8.8](https://developers.google.com/speed/public-dns/) and [Adgaurd](https://adguard.com/en/adguard-dns/overview.html) are also note worthy options.
 
