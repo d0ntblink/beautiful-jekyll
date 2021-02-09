@@ -19,4 +19,5 @@ To be honest, I’m having some trouble remembering right now, so why don’t yo
 <iframe src="https://open.spotify.com/embed/playlist/6mLl0yH6EfhuqrDm2alXXA" width="700" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Badges
+
 <script src="https://www.hackthebox.eu/badge/466368"></script>
