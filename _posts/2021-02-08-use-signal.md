@@ -39,7 +39,6 @@ Short answer is no because it licenssed under AGPLv3.
 
 ### SIGNAL PROS AND CONS
 
-<center>
 
 | Pros | Cons |
 | :------ |:------ |
@@ -52,8 +51,6 @@ Short answer is no because it licenssed under AGPLv3.
 | Elon Musk Likes it | |
 | Cannot be bought | |
 | No ads | |
-
-</center>
 
 
 {: .box-note}
