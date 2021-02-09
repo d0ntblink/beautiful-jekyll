@@ -9,7 +9,7 @@ comments: true
 published: true
 ---
 
-![VPNHEADER]('assets\img\VPN.jpg'){: .mx-auto.d-block :}
+![VPNHEADER](/assets/img/VPN.jpg){: .mx-auto.d-block :}
 
 ### WHY DO YOU NEED A VPN?
 
@@ -22,6 +22,8 @@ Although all the vpn providers claim and brag about their zero-logging policy, e
 Also, since nowadays its possible to get a VPS as low as $1 a month you can save a buck or two as well without being worried about getting dragged into a 3-year long contract.
 
 ### OPENVPN
+
+![OPENVPNHEADER](https://slides.poul.org/2017/corsi-linux-avanzati/OpenVPN/openvpn_logo.png){: .mx-auto.d-block :}
 
 A opensourced software for the host and client side VPN connection that is fully secure and fast. In fact, it so good, popular services like NordVPN and ProtonVPN use it in their commercial product.
 
