@@ -37,7 +37,7 @@ Then the usual way would be to go through with the OpenVPNs installation on your
 Github user [Nyr](https://github.com/Nyr) has created a [shell script](https://github.com/Nyr/openvpn-install) for Linux, specifically debian based distros to make the installation much faster and easier. 
 So, lets get to it.
 
-```
+```bash
 wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 ```
 Now you are prompted with alist of all your internet IP addresses and you should choose your public IP address that your VPS provider has provided you.
