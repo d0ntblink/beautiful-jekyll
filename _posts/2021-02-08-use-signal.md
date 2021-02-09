@@ -38,6 +38,7 @@ Yes, that is true. There are lots of other apps out that do the exact same and s
 Short answer is no because it licenssed under AGPLv3.
 
 ### SIGNAL PROS AND CONS
+
 <center>
 | Pros | Cons |
 | :------ |:------ |
@@ -51,5 +52,7 @@ Short answer is no because it licenssed under AGPLv3.
 | Cannot be bought | |
 | No ads | |
 </center>
+
+
 {: .box-note}
 **Note:** Make sure to donate to Signal if you can and like the app, thats their only way they keep up with the server demands and add new features.
