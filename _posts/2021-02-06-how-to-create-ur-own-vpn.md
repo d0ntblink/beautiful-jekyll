@@ -30,11 +30,11 @@ A opensourced software for the host and client side VPN connection that is fully
 ### HOW DO YOU SET UP YOUR OPENVPN SERVER
 
 First, you need a VPS (Virtual Private Server) to run the service on. My choice has alway been DigitalOcean for their simplicity and quality of service.
-You can use my [refferal link](https://m.do.co/c/70b5599f91d9) to get 100 dollars credit for 60 days. that should be enough for a VPS that can do VPN and alot more for 2 months free of charge.
+You can use my [refferal link](https://m.do.co/c/70b5599f91d9){:target="_blank"} to get 100 dollars credit for 60 days. that should be enough for a VPS that can do VPN and alot more for 2 months free of charge.
 
 Then the usual way would be to go through with the OpenVPNs installation on your choice of OS on the VPS, but there is a much easier way.
 
-Github user [Nyr](https://github.com/Nyr) has created a [shell script](https://github.com/Nyr/openvpn-install) for Linux, specifically debian based distros to make the installation much faster and easier. 
+Github user [Nyr](https://github.com/Nyr){:target="_blank"} has created a [shell script](https://github.com/Nyr/openvpn-install){:target="_blank"} for Linux, specifically debian based distros to make the installation much faster and easier. 
 So, lets get to it.
 
 ```bash
@@ -47,7 +47,7 @@ Now you are prompted with alist of all your internet IP addresses and you should
 
 Press enter on the next question to choose the default port.
 
-The next step is to choose a DNS provider for your VPN service to resolve your requests. My choice has always been [CloudFlare/1.1.1.1](1.1.1.1) for their security and speed, but [Google/8.8.8.8](https://developers.google.com/speed/public-dns/) and [Adgaurd](https://adguard.com/en/adguard-dns/overview.html) are also note worthy options.
+The next step is to choose a DNS provider for your VPN service to resolve your requests. My choice has always been [CloudFlare/1.1.1.1](1.1.1.1) for their security and speed, but [Google/8.8.8.8](https://developers.google.com/speed/public-dns/){:target="_blank"} and [Adgaurd](https://adguard.com/en/adguard-dns/overview.html){:target="_blank"} are also note worthy options.
 
 Almost there! 
 
@@ -55,7 +55,7 @@ Now you should choose a name for your first connection, it can be anything.
 
 After that, the script will run and do its magic and save a .ovpn file in your user's home directory. Save the file to your client computer.
 
-Download and isntall a client side application for your OS from [OpenVPN official page](https://openvpn.net/download-open-vpn/).
+Download and isntall a client side application for your OS from [OpenVPN official page](https://openvpn.net/download-open-vpn/){:target="_blank"}.
 
 Now you can either insert or drag and drop the .ovpn file in the application and add it to your connection list. 
 
