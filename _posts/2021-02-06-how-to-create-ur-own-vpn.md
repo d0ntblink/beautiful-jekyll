@@ -9,6 +9,8 @@ comments: true
 published: true
 ---
 
+![VPNHEADER]('assets\img\VPN.jpg'){: .mx-auto.d-block :}
+
 ### WHY DO YOU NEED A VPN?
 
 As the years go by, the need for privacy has significantly increased. Goverments spying, Geoblocking, ISP spying, add agencies, etc. are just some examples of why having a relieable source of internet traffic encryption like a VPN is a neccasety.
