@@ -5,8 +5,8 @@ subtitle: Why you'd want to go on a date with me
 ---
 Hello,
 
-My name is Gary aka d0ntbink an InfoSec enthusiast and pursuer.
-I will be blogging my findings and other things that I find interesting from other fellow hackers out there.
+My name is Gary aka d0ntbink an InfoSec enthusiast and privacy advocate.
+I will be blogging about free software, my discoveries, and other things that I find interesting from other fellow hackers out there.
 
 feel free to reach out to me on any of my socials below.
 
