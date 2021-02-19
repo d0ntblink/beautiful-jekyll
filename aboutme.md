@@ -19,5 +19,3 @@ To be honest, I’m having some trouble remembering right now, so why don’t yo
 ### Badges
 
 <script src="https://www.hackthebox.eu/badge/466368">
-
-[commnt]: # (</script><script src="https://tryhackme.com/badge/347520"></script>)
