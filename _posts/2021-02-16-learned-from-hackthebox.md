@@ -85,10 +85,10 @@ SSTI or Server-Side Template Injection is a very common vulnerability among web 
 
 ### Linux Tools I Did'nt Know Exist But I Ended Up Using A lot
 
-##### NETCAT 
+#### NETCAT 
 Other than its usual usage like port listening, this is also used heavily in getting a reverse shell.
 
-##### netpgp
+#### netpgp
 Got a encrypted file?
 
 
@@ -102,5 +102,5 @@ Got a encrypted file?
   - Not pressing Ctrl + C in a reverse shell -_-
 
 
-{: .box-warning}
+{: .box-error}
 **Warning:** This post is meant to be educational and only used in ethical hacking. Please do not use any of the tools or commands mentioned here in a malicious way.
