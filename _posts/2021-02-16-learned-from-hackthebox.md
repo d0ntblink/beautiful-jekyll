@@ -15,7 +15,7 @@ I recently reached the rank of hacker on hackthebox here is some of the cool thi
 
 I have been doing hackthebox on the side for about a month now, so here is some of my thoughts and cool thing I learned while breaking into boxes.
 I’m currently sitting at the very start of Hacker rank with 6 userowns, 5 root owns, and 4 challenges.
-![encryption](/assets/img/hackthebox-logo.png){: .mx-auto.d-block :}
+![encryption](/assets/img/hackthebox-owns.png){: .mx-auto.d-block :}
 
 
 I will be mostly writing about my experience with boxes rather than the challenges since they taught me the most and I had the most fun finishing them.
