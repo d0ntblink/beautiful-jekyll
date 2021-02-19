@@ -13,9 +13,9 @@ What time is it you ask? its time to ditch WhatsApp and all the other data gobli
 
 ![encryption](/assets/img/signalheader.png){: .mx-auto.d-block :}
 
-By now everyone should be alerted by Facebooks new policies pushed on all the WhatsApp users. It pretty much says you either agree for us to use your data for targetted ads or dont use our app.
+By now everyone should be alerted by Facebook's new policies pushed on all the WhatsApp users. TLDR: It says you either agree that Facebook can use your data for targetted ads or you shouldnt use Whattsapp
 
-Well, that was a simple enough answer for everyone that cared even a little bit about their privacy.
+Well, that should be a simple enough decision for anyone that cared even a little bit about their privacy.
 
 ### WHAT HAPPENED TO WHATSAPP?
 
@@ -23,11 +23,11 @@ The reason why WhatsApp became so popular even before it was acuaired by Faceboo
 
 [![scarypicture](https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/App-privacy-labels-messaging-apps.png){: .mx-auto.d-block :}](https://9to5mac.com/2021/01/04/app-privacy-labels-messaging-apps/){:target="_blank"}
 
-### SO, WHAT SHOULD USE INSTEAD
+### SO, WHAT SHOULD I USE INSTEAD
 
 ![singallogo](https://www.signal.org/assets/header/logo-f7ef605fe417d5520d38d546b3b774b4261c75220b9904da4d8b2ffc19a761ff.png){: .mx-auto.d-block :}
 
-Worry not! there is an app exacly like good old times Whatsapp out there that is not destened to have the same path. [Signal](https://signal.org){:target="_blank"} is a open-sourced, donation based, feature rich end to end double encryption messaging apps that can cut your internatinal calls and messaging costs.
+Worry not! there is an app exacly like good old times Whatsapp, and it is not destened to have the same path. [Signal](https://signal.org){:target="_blank"} is a open-sourced, donation based, feature rich end to end double encryption messaging apps that can cut your internatinal calls and messaging costs.
 
 ### WHY SIGNAL THOUGH THERE ARE OTHER OPTIONS
 
@@ -44,7 +44,7 @@ Short answer is no because it licenssed under AGPLv3.
 | :------ |:------ |
 | Free | Missing some Luxuary Features |
 | Open-Sourced | Not as Many Users Yet |
-| Donation Based | |
+| Donation Based | Need a Phone Number to Sign Up |
 | Fast | |
 | End to End Encryption | |
 | Light and customiseable | |
