@@ -41,7 +41,7 @@ After trying multiple enumeration tools I found the community favorite [PEAS](ht
 ### Cool Scripts
 
 #### Spawn a Bash Shell from a Python Environment
-stuck in a Python shell?
+stuck in a restricted shell with access to Python?
 ~~~
 python3 -c 'import pty; pty.spawn("/bin/bash")'
 ~~~
