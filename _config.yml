@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: d0ntblink's Blog
+title: ./d0ntblink's_Blog
 
 # Your name to show in the footer
-author: Gary K
+author: Gary "d0ntblink" K
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resume/CV: "resume"
+  About Me: "./aboutme"
+  Resume/CV: "./resume"
   # Website Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
