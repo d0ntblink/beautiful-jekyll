@@ -16,6 +16,7 @@ author: Gary "d0ntblink" K
 navbar-links:
   About Me: "aboutme"
   Resume/CV: "resume"
+  Home Page: "https://d0ntbl.ink"
   # Website Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
