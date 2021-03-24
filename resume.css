@@ -1,6 +1,6 @@
 body {
     color: #000000;
-    background: #EEEEEE;
+    background: #282a36;
     font: 1.1em "Times New Roman";
     line-height: 1.2;
     margin: 40px 0;
@@ -82,7 +82,7 @@ h1 + ul + p {
     /* Make links black in PDF */
     /* Move this outside the print block to apply this in HTML too */
     a, a:link, a:visited, a:hover {
-        color: #000000;
+        color: #ffb86c;
         text-decoration: underline;
     }
 }
