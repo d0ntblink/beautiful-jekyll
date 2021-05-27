@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switch to Signal! Its Worth It!
+title: Switch to Signal! Its Worth It! - (Old post, Use Element since Singal is being weird)
 subtitle: your privacy is worth alot more than you think
 # gh-repo: https://github.com/signalapp
 # gh-badge: [star, fork, follow]
